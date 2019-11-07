@@ -15,5 +15,5 @@ version.h
 
 # Autoconf stuff 
 libtool
-config.*
+#config.*
 stamp-h
